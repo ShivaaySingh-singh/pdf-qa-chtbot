@@ -1,4 +1,15 @@
-PyPDF2==3.0.1
-transformers==4.35.0
-torch==2.1.0
-streamlit==1.28.0
+# PDF Processing
+PyPDF2
+
+# AI/ML Libraries
+transformers
+torch
+
+# Web Framework
+streamlit
+
+# Optional: Add versions if needed
+# PyPDF2==3.0.1
+# transformers>=4.35.0
+# torch>=2.5.0
+# streamlit>=1.28.0
