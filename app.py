@@ -196,6 +196,7 @@ def  main():
         2. Wait for text extraction
         3. Type your question about the document
         4. Click 'Get Answer' to get AI-powered responses
+        """
         
 if __name__ == "__main__":
     main()
