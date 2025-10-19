@@ -196,7 +196,13 @@ def  main():
         2. Wait for text extraction
         3. Type your question about the document
         4. Click 'Get Answer' to get AI-powered responses
-        """
+
+        ### Example questions:
+        - What is this document about?
+        - Who are the main people mentioned?
+        - What are the key findings?
+        - Summarize the conclusion
+        """)
         
 if __name__ == "__main__":
     main()
